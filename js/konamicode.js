@@ -1,7 +1,7 @@
 /**
   KonamiCode
   ==========
-  Checks wether the input matchs the sequence stored in (cod).
+  Checks wether the input matches the sequence stored in (cod).
   Uses an temp circular array (tmp) with the same length of the code we're looking for
   A Pointer (start) marks the start of the circular array.
 */
